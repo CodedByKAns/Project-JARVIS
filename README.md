@@ -1,24 +1,4 @@
-Bilkul! Neeche ek **very advanced, modern, and professional `README.md`** diya gaya hai specially tumhare **JARVIS AI Assistant** project ke liye. Yeh design developers, recruiters, aur open-source community ke liye attractive hoga.
 
----
-
-### ✅ Features included:
-
-* Modern layout with badges
-* Professional description
-* Animated headings (Markdown supported)
-* Setup instructions
-* Architecture diagram placeholder
-* Command examples
-* Tech stack section
-* Contribution guidelines
-* License
-
----
-
-### 📄 `README.md` (Copy & Paste karo)
-
-````markdown
 <h1 align="center">🤖 JARVIS - AI Assistant for Windows</h1>
 
 <p align="center">
@@ -147,7 +127,7 @@ Licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Alien aka SigmaBlaze\_\_](https://github.com/kaif-ansari-jarvis)
+Made with ❤️ by [kaif ansari\_\_](https://github.com/kaif-ansari-jarvis)
 
 ---
 
