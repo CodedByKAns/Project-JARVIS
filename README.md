@@ -40,7 +40,7 @@
   <b>JARVIS: A voice-enabled, context-aware AI assistant inspired by Iron Man’s JARVIS, delivering personalized, conversational responses with a friendly Hinglish tone.</b>
 </p>
 <details>
-<summary><b>Show Context Aware Feature For Jarvis</b></summary>
+<summary><b>Show Context Aware Feature of Jarvis</b></summary>
 
 
 ---
