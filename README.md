@@ -217,4 +217,3 @@ This project is licensed under the <a href="LICENSE" target="_blank">MIT License
   <b>JARVIS: Your smart, desi AI companion for an enhanced Windows experience.</b><br>
   <i>Actively evolving—stay tuned for new features!</i>
 </p>
----
