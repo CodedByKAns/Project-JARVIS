@@ -217,9 +217,4 @@ This project is licensed under the <a href="LICENSE" target="_blank">MIT License
   <b>JARVIS: Your smart, desi AI companion for an enhanced Windows experience.</b><br>
   <i>Actively evolving—stay tuned for new features!</i>
 </p>
-```
-
-### Testing
-When this README is rendered on a platform supporting HTML (e.g., GitHub Pages or a custom Markdown renderer), all links will open in new tabs due to `target="_blank"`. On GitHub itself, the `LICENSE` link (relative) may open in the same tab unless GitHub’s UI overrides it, but external links (GitHub profile, email) will open in new tabs.
-
-If you need further tweaks or want to handle links differently (e.g., for specific platforms), let me know!
+---
